@@ -5,7 +5,8 @@
 - 数据库：mysql 
 - 技术：SpringBoot+MyBatis+Vue 
 - 工具：IDEA/Ecilpse+mysql+Navicat 
-
+- Q: 3270728362
+  
 ---
 
 本系统分为**用户**、**店家**和**管理员**三种角色 
