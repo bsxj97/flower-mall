@@ -1,9 +1,9 @@
 ## 介绍
-基于SpringBoot+Vue的鲜花商城、鲜花销售系统、在线鲜花商城、花店，前后端分离，毕业设计。
+基于SSM+Vue的鲜花商城、鲜花销售系统、在线鲜花商城、花店，前后端分离，毕业设计。
 
 - 开发语言：Java 
 - 数据库：mysql 
-- 技术：SpringBoot+MyBatis+Vue 
+- 技术：Spring+SpringMVC+MyBatis+Vue 
 - 工具：IDEA/Ecilpse+mysql+Navicat 
 - Q: 3270728362
   
